@@ -94,7 +94,7 @@ To create a standalone executable file:
 
 ## Screenshots
 
-https://thumbs2.imgbox.com/0f/7e/kYINXxZ2_t.png
+<img src="https://thumbs2.imgbox.com/0f/7e/kYINXxZ2_t.png" alt="software demo" />
 
 ---
 
